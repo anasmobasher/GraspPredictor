@@ -31,4 +31,4 @@
 *  Grasp-Quality, Quality: The average ground-truth grasp quality of feasible grasps, which ranges between 0 and 1. This metric gives an indication of how well the predicted grasps align with the actual quality of the grasping action.
 *  Object clearing rate, Object: The percentage of objects for which grasps are detected. This metric counts the proportion of objects in the scene for which the grasp prediction network successfully detects valid grasps.
 
-![alt text](https://github.com/anasmobasher/GraspPredictor/blob/main/docs/pics/results.png?raw=true)
+![alt text](https://github.com/anasmobasher/GraspPredictor/blob/main/docs/grasp/results.png?raw=true)
